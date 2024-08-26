@@ -1,28 +1,47 @@
-# CSS Glitch Effect
+## Project Overview
 
-A glitch effect using CSS animations and clip-path. Inspired by the technique seen on the [speakers page](https://www.404.ie/speakers/) of the 404 conference.
+## 1. The Script
+This section features a collection of digital scripts and narratives that experiment with storytelling through technology. These projects utilize glitch effects and immersive techniques to convey complex themes related to Black culture and digital humanities.
 
-![Image Glitch Effect](https://tympanus.net/codrops/wp-content/uploads/2017/12/ImageGlitchEffect_Featured.jpg)
+## 2. The Tour
+Here, you will find interactive tours that guide users through various digital environments and experiences. These tours are designed to immerse users in the intersections of Black culture and technology, providing a unique and engaging perspective on the topics explored.
 
-[Article on Codrops](https://tympanus.net/codrops/?p=33498)
+## 3. Inventory
+The Inventory section showcases a curated collection of digital artifacts and resources developed during the fellowship. This includes a range of multimedia elements, from audio recordings to visual assets, that highlight key aspects of my research and projects.
 
-[Demo](https://tympanus.net/Tutorials/CSSGlitchEffect/)
+## 4. Textile Computing
+In this section, I explore the integration of textile design with computational technology. The projects demonstrate innovative approaches to combining traditional textile practices with digital tools, reflecting on cultural and technological intersections.
 
-## Credits
+## 5. 3D Rendering
+The 3D Rendering section presents digital models and visualizations created through advanced rendering techniques. These projects aim to provide new ways of visualizing and interacting with concepts related to Black culture and digital humanities.
 
-- [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
-- Images by [Unsplash.com](http://unsplash.com)
+## 6. Deliverables
+This section includes the final deliverables of my fellowship projects, such as reports, presentations, and other key outputs. It reflects the culmination of my work and provides detailed insights into the research and methodologies employed.
 
-## License
-This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+## Technologies and Tools Used
 
-## Misc
+Throughout the portfolio, I utilized a variety of digital tools and technologies, including:
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+## Programming Languages: python, 
+Design Software: Adobe Creative Suite
+Digital Humanities Tools: [List any specialized tools or platforms used]
 
 
-[© Codrops 2017](http://www.codrops.com)
+## Contribution and Collaboration
 
+I would like to acknowledge the valuable contributions and support from the AADHum lab and its mentors, as well as my fellow collaborators. Their guidance and feedback were instrumental in the development of these projects.
+
+## Acknowledgments
+
+Special thanks to the AADHum lab for providing the opportunity to explore and experiment with digital humanities. I also extend my gratitude to [mention any other individuals or institutions who supported your work].
+
+## Future Directions
+
+Looking ahead, I plan to continue expanding on the themes explored in this portfolio. Future projects will build on these foundations, further exploring the integration of Black culture, technology, and digital humanities. Stay tuned for upcoming work and developments.
+
+Contact Information
+
+For questions, collaborations, or further discussion, please reach out to me at rayele@umd.com 
 
 
 
